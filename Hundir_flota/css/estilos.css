@@ -1,0 +1,42 @@
+button {
+    width: 30px;
+    height: 30px;
+}
+canvas {
+    float: left;
+}
+.nu1 {
+    display: flex;
+    justify-content: center;
+    background-color:rgb(126, 126, 126,0.7);
+    width: 1000px;
+    margin: 0 auto;
+}
+.subnu1 {
+    display: flex;
+}
+.subnu1_ {
+    display: flex;
+}
+body {
+    background-image: url("../image/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.titol {
+    text-align: center;
+    background-color: rgb(126, 126, 126,0.7);
+    width: 1000px;
+    margin: 0 auto;
+}
+.titol_ {
+    text-align: center;
+    background-color: rgb(126, 126, 126,0.7);
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+}
+.hit {
+    width: 80px;
+    height: 30px;
+}
